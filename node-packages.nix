@@ -7964,6 +7964,7 @@ let
   args = {
     name = "foo";
     packageName = "foo";
+    version = "1.0.0";
     src = ./.;
     dependencies = [
       sources."@storybook/addon-actions-3.3.14"
