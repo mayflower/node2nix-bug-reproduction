@@ -1,0 +1,6 @@
+{
+  "name": "foo",
+  "dependencies": {
+    "@storybook/react": "3.3.14"
+  }
+}
